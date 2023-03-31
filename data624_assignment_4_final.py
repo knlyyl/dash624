@@ -19,8 +19,6 @@ pd.options.plotting.backend = "plotly"
 import plotly.express as px
 import matplotlib.pyplot as plt
 
-pip install -U ydata-profiling
-
 from ydata_profiling import ProfileReport
 from IPython.display import HTML
 
