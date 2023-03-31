@@ -9,7 +9,7 @@ app.layout = html.Div(
     [
         html.H1("Layout Prototype"),
         """
-        Hi, my name is Kristy
+        Hi, my name is Kristy (March 2023)
         """,
     ]
 )
